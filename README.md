@@ -15,7 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### <a href="https://www.douban.com/people/three_333/" target="_blank">我的动态</a>
+<table>
+<tr>
+<td valign="top">  
+
+#### 我的动态
+
 <!-- douban starts -->
 * <a href='https://book.douban.com/subject/1013208/' target='_blank'>读过如何阅读一本书</a> - 2020-08-04
 * <a href='https://book.douban.com/subject/34907496/' target='_blank'>最近在读数据中台：让数据用起来</a> - 2020-07-13
@@ -24,8 +29,16 @@ Here are some ideas to get you started:
 * <a href='https://book.douban.com/subject/30477839/' target='_blank'>最近在读未来架构：从服务化到云原生</a> - 2020-06-02
 <!-- douban ends -->
 
-#### <a href="https://github.com/aaronshan/aaronshan/blob/main/releases.md" target="_blank">发布记录</a>
+     
+</td>
+<td valign="top">
+
+#### 发布记录
 <!-- recent_releases starts -->
 * <a href='https://github.com/aaronshan/hive-third-functions/releases/tag/2.2.0' target='_blank'>hive-third-functions Release V2.2.0</a> - 2019-02-02
 * <a href='https://github.com/aaronshan/presto-third-functions/releases/tag/0.5.1' target='_blank'>presto-third-functions Version 0.5.1</a> - 2017-12-13
 <!-- recent_releases ends -->
+
+</td>
+</tr>
+</table>
