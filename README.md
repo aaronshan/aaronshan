@@ -14,3 +14,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+#### <a href="https://github.com/aaronshan/aaronshan/blob/main/releases.md" target="_blank">发布记录</a>
+
+<!-- recent_releases starts -->
+<!-- recent_releases ends -->
+
+</td>
+
+<td valign="top" width="50%">
+
+#### <a href="https://www.douban.com/people/three_333/" target="_blank">我的动态</a>
+
+<!-- douban starts -->
+<!-- douban ends -->
+
+</td>
+  </tr>
+  </table>
+
