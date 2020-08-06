@@ -1,4 +1,4 @@
-Hi 👋, 我是Aaron，在美团从事大数据相关的工作。当前个人主要专注在以数据视角去解决算法领域的问题，负责进行算法交付相关系统能力的建设。
+Hi 👋, 我是Aaron，在美团从事大数据相关的工作。当前个人主要专注在以数据视角去解决算法领域的问题，负责进行算法交付系统的设计规划和能力建设。
 
 <!--
 **aaronshan/aaronshan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
