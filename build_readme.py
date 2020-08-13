@@ -113,6 +113,7 @@ def fetch_douban():
 
 if __name__ == "__main__":
     readme = root / "README.md"
+    """
     project_releases = root / "releases.md"
     releases = fetch_releases(TOKEN)
     releases.sort(key=lambda r: r["published_at"], reverse=True)
@@ -122,6 +123,8 @@ if __name__ == "__main__":
             for release in releases[:8]
         ]
     )
+    """
+    md=""
     readme_contents = readme.open().read()
     rewritten = replace_chunk(readme_contents, "recent_releases", md)
 
