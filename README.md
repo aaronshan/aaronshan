@@ -16,11 +16,7 @@ Hi 👋, 我是Aaron，在美团从事大数据相关的工作。当前个人主
 * <a href='https://book.douban.com/subject/4826290/' target='_blank'>读过企业应用架构模式</a> - 2020-06-02
 <!-- douban ends -->
 
-#### 发布记录
-
 <!-- recent_releases starts -->
-* <a href='https://github.com/aaronshan/hive-third-functions/releases/tag/2.2.0' target='_blank'>hive-third-functions Release V2.2.0</a> - 2019-02-02
-* <a href='https://github.com/aaronshan/presto-third-functions/releases/tag/0.5.1' target='_blank'>presto-third-functions Version 0.5.1</a> - 2017-12-13
 <!-- recent_releases ends -->
 </p>
 
