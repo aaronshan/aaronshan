@@ -1,24 +1,11 @@
 Hi 👋, 我是Aaron，在美团从事大数据相关的工作。当前个人主要专注在以数据视角去解决算法领域的问题，负责进行算法交付系统的设计规划和能力建设。
 
-<!--
-**aaronshan/aaronshan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p >
 
-Here are some ideas to get you started:
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=aaronshan&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<table>
-<tr>
-<td valign="top">  
-
+<p align="left">
+     
 #### 我的动态
 
 <!-- douban starts -->
@@ -29,16 +16,12 @@ Here are some ideas to get you started:
 * <a href='https://book.douban.com/subject/4826290/' target='_blank'>读过企业应用架构模式</a> - 2020-06-02
 <!-- douban ends -->
 
-     
-</td>
-<td valign="top">
-
 #### 发布记录
+
 <!-- recent_releases starts -->
 * <a href='https://github.com/aaronshan/hive-third-functions/releases/tag/2.2.0' target='_blank'>hive-third-functions Release V2.2.0</a> - 2019-02-02
 * <a href='https://github.com/aaronshan/presto-third-functions/releases/tag/0.5.1' target='_blank'>presto-third-functions Version 0.5.1</a> - 2017-12-13
 <!-- recent_releases ends -->
+</p>
 
-</td>
-</tr>
-</table>
+</p>
