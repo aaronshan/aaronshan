@@ -125,6 +125,7 @@ if __name__ == "__main__":
     readme_contents = readme.open().read()
     rewritten = replace_chunk(readme_contents, "recent_releases", md)
 
+    """
     # Write out full project-releases.md file
     project_releases_md = "\n".join(
         [
@@ -143,6 +144,7 @@ if __name__ == "__main__":
         project_releases_content, "release_count", str(len(releases)), inline=True
     )
     project_releases.open("w").write(project_releases_content)
+    """
 
     doubans = fetch_douban()[:5]
 
