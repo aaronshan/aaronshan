@@ -9,7 +9,7 @@ Hi 👋, 我是Aaron，在美团从事大数据相关的工作。当前个人主
 #### 我的动态
 
 <!-- douban starts -->
-* <a href='https://book.douban.com/subject/27609489/' target='_blank'>最近在读远见</a> - 2020-11-06
+* <a href='https://book.douban.com/subject/27609489/' target='_blank'>读过远见</a> - 2020-12-14
 * <a href='http://movie.douban.com/subject/35051512/' target='_blank'>看过我和我的家乡</a> - 2020-10-25
 * <a href='http://movie.douban.com/subject/25907124/' target='_blank'>看过姜子牙</a> - 2020-10-22
 * <a href='https://book.douban.com/subject/1033778/' target='_blank'>读过富爸爸，穷爸爸</a> - 2020-09-12
