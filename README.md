@@ -9,11 +9,11 @@ Hi 👋, 我是Aaron，在美团从事大数据相关的工作。当前个人主
 #### 我的动态
 
 <!-- douban starts -->
+* <a href='https://book.douban.com/subject/35218970/' target='_blank'>想读非线性成长</a> - 2021-07-19
 * <a href='https://book.douban.com/subject/35092383/' target='_blank'>最近在读把自己作为方法</a> - 2021-05-30
 * <a href='https://book.douban.com/subject/34997975/' target='_blank'>读过文明、现代化、价值投资与中国</a> - 2021-05-25
 * <a href='http://movie.douban.com/subject/35295915/' target='_blank'>看过少林寺之得宝传奇</a> - 2021-05-10
 * <a href='http://movie.douban.com/subject/2158490/' target='_blank'>看过正义联盟</a> - 2021-05-10
-* <a href='http://movie.douban.com/subject/34880302/' target='_blank'>看过人潮汹涌</a> - 2021-05-10
 <!-- douban ends -->
 
 <!-- recent_releases starts -->
