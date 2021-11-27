@@ -9,7 +9,7 @@ Hi 👋, 我是Aaron，在美团从事大数据相关的工作。当前个人主
 #### 我的动态
 
 <!-- douban starts -->
-* <a href='https://book.douban.com/subject/35673970/' target='_blank'>最近在读成为学习高手</a> - 2021-11-25
+* <a href='https://book.douban.com/subject/35673970/' target='_blank'>读过成为学习高手</a> - 2021-11-26
 * <a href='https://book.douban.com/subject/35492898/' target='_blank'>最近在读凤凰架构</a> - 2021-11-20
 * <a href='https://book.douban.com/subject/27045252/' target='_blank'>读过不成熟的父母</a> - 2021-11-17
 * <a href='https://book.douban.com/subject/1322455/' target='_blank'>想读遥远的救世主</a> - 2021-08-31
