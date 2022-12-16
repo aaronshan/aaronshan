@@ -9,7 +9,7 @@ Hi 👋, 我是Aaron，在美团从事大数据相关的工作。当前个人主
 #### 我的动态
 
 <!-- douban starts -->
-* <a href='https://book.douban.com/subject/20493300/' target='_blank'>最近在读高效能人士的执行4原则</a> - 2022-12-07
+* <a href='https://book.douban.com/subject/20493300/' target='_blank'>读过高效能人士的执行4原则</a> - 2022-12-15
 * <a href='https://book.douban.com/subject/26873486/' target='_blank'>读过运营之光</a> - 2022-12-07
 * <a href='https://book.douban.com/subject/33429197/' target='_blank'>想读管理：使命、责任、实践（实践篇）</a> - 2022-11-08
 * <a href='https://book.douban.com/subject/2350023/' target='_blank'>想读成为领导者</a> - 2022-11-08
