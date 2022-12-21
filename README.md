@@ -9,11 +9,11 @@ Hi 👋, 我是Aaron，在美团从事大数据相关的工作。当前个人主
 #### 我的动态
 
 <!-- douban starts -->
-* <a href='https://book.douban.com/subject/20493300/' target='_blank'>读过高效能人士的执行4原则</a> - 2022-12-15
-* <a href='https://book.douban.com/subject/26873486/' target='_blank'>读过运营之光</a> - 2022-12-07
-* <a href='https://book.douban.com/subject/33429197/' target='_blank'>想读管理：使命、责任、实践（实践篇）</a> - 2022-11-08
-* <a href='https://book.douban.com/subject/2350023/' target='_blank'>想读成为领导者</a> - 2022-11-08
-* <a href='https://book.douban.com/subject/34893628/' target='_blank'>想读模型思维</a> - 2022-07-13
+* <a href='http://movie.douban.com/subject/35102469/' target='_blank'>看过哥，你好</a> - 2022-12-20
+* <a href='http://movie.douban.com/subject/35183042/' target='_blank'>看过独行月球</a> - 2022-12-20
+* <a href='http://movie.douban.com/subject/35613853/' target='_blank'>看过长津湖之水门桥</a> - 2022-12-20
+* <a href='http://movie.douban.com/subject/25845392/' target='_blank'>看过长津湖</a> - 2022-12-20
+* <a href='http://movie.douban.com/subject/26654184/' target='_blank'>看过万里归途</a> - 2022-12-20
 <!-- douban ends -->
 
 <!-- recent_releases starts -->
