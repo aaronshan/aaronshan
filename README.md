@@ -11,9 +11,7 @@ Hi 👋, 我是Aaron，在美团从事大数据相关的工作。当前个人主
 <!-- douban starts -->
 * <a href='http://movie.douban.com/subject/10604086/' target='_blank'>看过封神第一部：朝歌风云</a> - 2023-08-19
 * <a href='http://movie.douban.com/subject/35818074/' target='_blank'>看过我爱你！</a> - 2023-08-13
-* <a href='https://book.douban.com/subject/26171466/' target='_blank'>想读筚路维艰</a> - 2023-08-10
-* <a href='https://book.douban.com/subject/35620025/' target='_blank'>最近在读底层逻辑</a> - 2023-07-22
-* <a href='https://book.douban.com/subject/35145648/' target='_blank'>想读父母的觉醒2</a> - 2023-05-05
+* <a href='http://movie.douban.com/subject/35267208/' target='_blank'>看过流浪地球2</a> - 2023-01-25
 <!-- douban ends -->
 
 <!-- recent_releases starts -->
