@@ -9,11 +9,7 @@ Hi 👋, 我是Aaron，在美团从事大数据相关的工作。当前个人主
 #### 我的动态
 
 <!-- douban starts -->
-* <a href='https://book.douban.com/subject/35837140/' target='_blank'>读过瑞典人为什么不焦虑（囊括了瑞典的方方面面，跟随旅居瑞典8年的美女作家一起揭秘瑞典人幸福生活、不焦虑的原因。）</a> - 2024-06-24
-* <a href='http://movie.douban.com/subject/36151692/' target='_blank'>看过周处除三害</a> - 2024-03-10
-* <a href='http://movie.douban.com/subject/36081094/' target='_blank'>看过热辣滚烫</a> - 2024-02-11
-* <a href='http://movie.douban.com/subject/35074609/' target='_blank'>看过金手指</a> - 2024-01-05
-* <a href='http://movie.douban.com/subject/35725869/' target='_blank'>看过年会不能停！</a> - 2023-12-30
+
 <!-- douban ends -->
 
 <!-- recent_releases starts -->
