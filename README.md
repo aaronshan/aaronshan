@@ -2,7 +2,7 @@ Hi 👋, 我是Aaron，在美团从事大数据相关的工作。当前个人主
 
 <p >
 
-<img align="right" src="./profile/pin-readme-tools-github-readme-stats.svg" />
+<img align="right" src="./profile/stats.svg" />
 
 <p align="left">
      
