@@ -2,7 +2,7 @@ name: Update README cards
 
 on:
   schedule: # 每小时运行一次
-    - cron: "0/20 * * * *"
+    - cron: "0/30 * * * *"
 
 jobs:
   build:
