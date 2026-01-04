@@ -1,8 +1,11 @@
 name: Update README cards
 
 on:
-  schedule: # 每小时运行一次
-    - cron: "0/30 * * * *"
+  push: # 推送时立即触发
+    branches:
+      - main
+      - master
+
 
 jobs:
   build:
